@@ -39,9 +39,9 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "Send HL7 to CCE";
-            this.serviceInstaller1.DisplayName = "HL7SenderService";
-            this.serviceInstaller1.ServiceName = "HL7SenderService";
+            this.serviceInstaller1.Description = "Send HL7 to Amanager";
+            this.serviceInstaller1.DisplayName = "Apoteca_HL7SenderService";
+            this.serviceInstaller1.ServiceName = "Apoteca_HL7SenderService";
             // 
             // ProjectInstaller
             // 
